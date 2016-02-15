@@ -1,0 +1,8 @@
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\obj\Debug\StringCalulatorTests.csprojResolveAssemblyReference.cache
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\bin\Debug\StringCalulatorTests.dll
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\bin\Debug\StringCalulatorTests.pdb
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\bin\Debug\StringCalculatorKata.dll
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\bin\Debug\StringCalculatorKata.pdb
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\obj\Debug\StringCalulatorTests.dll
+c:\users\jbutler\documents\visual studio 2015\Projects\StringCalculatorKata\StringCalulatorTests\obj\Debug\StringCalulatorTests.pdb
